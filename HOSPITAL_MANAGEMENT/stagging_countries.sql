@@ -1,4 +1,4 @@
-use incubytedb
+use Hospital_M
 go
 
 insert into table_usa exec sp_incubyte @countryname = 'USA'
